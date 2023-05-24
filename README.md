@@ -1,4 +1,4 @@
-# Design and Development of a Stereo Vision Systemfor Accurate Pose Estimation in Hybrid Additive Manufacturing
+# Design and Development of a Stereo Vision System for Accurate Pose Estimation in Hybrid Additive Manufacturing
 
 Aim : The objective of this thesis is to develop a stereo camera set-up and further explore pose estimation using triangulation algorithms with input images of a real component on the bed plate of an EOS M 290 machine. The triangulated point is further transformed into the machine coordinate system. The thesis delves deeper into comparing multiple triangulation methods to assess the estimation accuracy. To evaluate the effectiveness of the proposed pose estimation method, a test object with multiple features is designed and manufactured whose precise dimensions are known. The stereo camera setup captures images of the test object, and triangulation is performed to estimate the length, width, and height dimensions of the features. These estimated dimensions are then compared with the actual dimensions to determine the accuracy of the triangulation algorithms. 
 
